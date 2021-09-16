@@ -4818,7 +4818,7 @@
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-"gatsby@^4.0.0-next", "gatsby@^4.0.0-next.1":
+"gatsby@^4.0.0-next", "gatsby@next":
   "integrity" "sha512-3Gop/MveOpBa2CDSmOZ5Q3RYzuFPrusDL0r/PtXU169eUhPcg+T9i88J9WD1OhaBvh8t/GFdUcIOhIGh+YW0sQ=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-4.0.0-next.1.tgz"
   "version" "4.0.0-next.1"
