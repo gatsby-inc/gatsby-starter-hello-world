@@ -1,5 +1,6 @@
 import React from "react"
 
-export default function Home() {
+function Home() {
   return <div>Hello Gatsby 4!</div>
 }
+export default Home;
